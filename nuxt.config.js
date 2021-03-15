@@ -45,7 +45,7 @@ export default {
     '@nuxtjs/proxy'
   ],
   proxy: {
-    '/api': 'http://localhost:8081/'
+    '/api': 'https://app-7be592bf-dbb5-4e00-8b3d-fbc61bffa4f1.cleverapps.io/'
   },
 
   // Axios module configuration: https://go.nuxtjs.dev/config-axios
